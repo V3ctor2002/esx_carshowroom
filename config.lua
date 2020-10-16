@@ -2,7 +2,7 @@ Config                            = {}
 Config.DrawDistance               = 100.0
 Config.MarkerColor                = { r = 255, g = 255, b = 255 }
 --language currently available EN and SV
-Config.Locale                     = 'en'
+Config.Locale                     = 'it'
 --this is how much the price shows from the purchase price
 -- exapmle the cardealer boughts it for 2000 if 2 then it says 4000
 Config.Price = 2 -- this is times how much it should show
