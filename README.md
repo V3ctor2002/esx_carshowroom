@@ -11,5 +11,3 @@
 
 2) Add this in your server.cfg :
 ``start esx_carshowroom``
-
-lua
