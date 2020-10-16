@@ -1,4 +1,4 @@
-Locales['en'] = {
+Locales['it'] = {
   -- Everything
   ['press_e'] = 'Premi ~INPUT_CONTEXT~ per aprire il menu',
   ['costs'] = ' Prezzo: ',
